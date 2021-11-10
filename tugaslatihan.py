@@ -1,0 +1,5 @@
+print ("------------------")
+print ("Pertemuan ke 7")
+print ("kondisional-perulangan")
+print ("tugas latihan")
+print ("------------------")
