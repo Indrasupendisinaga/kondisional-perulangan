@@ -28,5 +28,5 @@
 <p>     main()
     
 ## Latihan2
--- sourcecode
+- sourcecode
     
