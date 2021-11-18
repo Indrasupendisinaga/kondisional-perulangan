@@ -1,6 +1,6 @@
 # kondisional-perulangan
-- Latihan 1
 # sourcecode
+-sourcecode
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("kondisional-perulangan")
