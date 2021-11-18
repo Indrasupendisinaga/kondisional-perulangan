@@ -1,5 +1,6 @@
 # kondisional-perulangan
-- Sourcode Latihan 1
+- Latihan 1
+- -sourcecode
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("kondisional-perulangan")
