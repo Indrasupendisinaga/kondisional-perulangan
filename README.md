@@ -26,3 +26,6 @@
 
 <p> if __name__ == '__main__':
 <p>     main()
+    
+## Latihan1
+    
