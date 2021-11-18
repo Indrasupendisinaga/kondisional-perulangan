@@ -1,5 +1,5 @@
 # kondisional-perulangan
-# sourcecode
+# Latihan1
 - sourcecode
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
