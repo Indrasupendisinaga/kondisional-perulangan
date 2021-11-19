@@ -50,10 +50,12 @@
 <P> print ("struktur-kondisi-latihan 2")
 <P> print ("------------------")
 <P> def pengulangan():
-<P>     print ("masukkan tiga bilangan yang di inginkan !")
+<P>     print ("")
 <P> a = int(input("input bilangan  1 = "))
 <P> b = int(input("input bilangan  2 = "))
 <P> c = int(input("input bilangan  3 = "))   
+<P> print("----------------")
+<P> print("urutan bilangan")
 <P> if a>b and a>c :
 <P>     if b>c:
 <P>         print(a,b,c)
@@ -70,7 +72,6 @@
 <P>     else:
 <P>         print(c,b,a)
 <P>     print("")    
-<P> pengulangan() 
 <p>
     
 ![screenshot-struktur-kondisi-latihan2](https://user-images.githubusercontent.com/92582081/142562132-f1db7270-257c-4f0e-ad78-8ed51565ba7c.PNG)
