@@ -1,6 +1,11 @@
 # kondisional-perulangan
-# Latihan1
-- sourcecode
+## struktur-kondisi-Latihan1
+
+<p>
+
+### sourcecode
+
+<p>    
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("kondisional-perulangan")
@@ -26,6 +31,11 @@
 
 <p> if __name__ == '__main__':
 <p>     main()
+<p>
+    
+![screenshot-struktur-kondisi-latihan1](https://user-images.githubusercontent.com/92582081/142558243-de1bce9b-11d7-42d6-a7ef-5e4b52011c88.PNG)
+    
+<p>
     
 ## Latihan2
 - sourcecode
