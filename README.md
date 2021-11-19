@@ -81,6 +81,9 @@
 ## Perulangan latihan2
     
 <p>
+    
+### sourcecode
+    
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("kondisional-perulangan")
@@ -90,3 +93,7 @@
 <p> import random
 <p> for i in range (jumlah) :
 <p>     print("data ke", i+1, "=", (random.uniform(0.1,0.5)))
+<p>  
+
+![screenshot-perulangan-latihan2](https://user-images.githubusercontent.com/92582081/142565586-5f6d3ae5-372f-41dc-9201-f11e7b979f4e.PNG)
+
