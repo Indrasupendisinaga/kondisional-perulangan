@@ -4,7 +4,7 @@ print ("kondisional-perulangan")
 print ("perulangan-latihan 1")
 print ("------------------")
 
-x=int   (input("masukkkan jumlah baris:")
+x=int   (input("masukkan jumlah baris:")
 
 for i in range("*"):
 for j in range (1):
