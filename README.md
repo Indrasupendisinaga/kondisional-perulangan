@@ -77,3 +77,16 @@
 ![screenshot-struktur-kondisi-latihan2](https://user-images.githubusercontent.com/92582081/142562853-64b75e0a-3019-401b-af6b-b81a55553534.PNG)
 
 <p>
+ 
+## Perulangan latihan2
+    
+<p>
+<p> print ("------------------")
+<p> print ("Pertemuan ke 7")
+<p> print ("kondisional-perulangan")
+<p> print ("perulangan-latihan 2")
+<p> print ("------------------")
+<p> jumlah =int(input("masukkan jumlah n :"))
+<p> import random
+<p> for i in range (jumlah) :
+<p>     print("data ke", i+1, "=", (random.uniform(0.1,0.5)))
