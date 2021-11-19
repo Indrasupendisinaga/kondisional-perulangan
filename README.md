@@ -37,6 +37,43 @@
     
 <p>
     
-## Latihan2
-- sourcecode
+## struktur-kondisi-latihan2
     
+<p>
+    
+### sourcecode
+    
+<p>
+<P> print ("------------------")
+<P> print ("Pertemuan ke 7")
+<P> print ("kondisional-perulangan")
+<P> print ("struktur-kondisi-latihan 2")
+<P> print ("------------------")
+<P> def pengulangan():
+<P>     print ("")
+<P> a = int(input("input bilangan  1 = "))
+<P> b = int(input("input bilangan  2 = "))
+<P> c = int(input("input bilangan  3 = "))   
+<P> print("----------------")
+<P> print("urutan bilangan")
+<P> if a>b and a>c :
+<P>     if b>c:
+<P>         print(a,b,c)
+<P>     else:
+<P>         print(a,c,b)
+<P> elif b>a and b>c:
+<P>     if a>c:
+<P>         print(b,a,c)
+<P>     else:
+<P>         print (b,c,a)
+<P> else :
+<P>     if a>b:
+<P>         print(c,a,b)
+<P>     else:
+<P>         print(c,b,a)
+<P>     print("")    
+<p>
+    
+![screenshot-struktur-kondisi-latihan2](https://user-images.githubusercontent.com/92582081/142562853-64b75e0a-3019-401b-af6b-b81a55553534.PNG)
+
+<p>
