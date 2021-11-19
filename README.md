@@ -1,6 +1,11 @@
 # kondisional-perulangan
-# struktur-kondisi-Latihan1
-- sourcecode
+## struktur-kondisi-Latihan1
+
+<p>
+
+### sourcecode
+
+<p>    
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("kondisional-perulangan")
