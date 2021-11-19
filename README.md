@@ -71,4 +71,8 @@
 <P>         print(c,b,a)
 <P>     print("")    
 <P> pengulangan() 
+<p>
     
+![screenshot-struktur-kondisi-latihan2](https://user-images.githubusercontent.com/92582081/142562132-f1db7270-257c-4f0e-ad78-8ed51565ba7c.PNG)
+
+<p>
